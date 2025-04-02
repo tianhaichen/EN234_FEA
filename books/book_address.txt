@@ -1,2 +1,4 @@
 http://solidmechanics.org/problems/problems.htm
 http://solidmechanics.org/FEA.htm
+
+https://www.brown.edu/Departments/Engineering/Courses/En2340/Programming/programming.html
